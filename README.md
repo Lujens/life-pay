@@ -23,8 +23,8 @@ LIFE Pay is a web-based prototype that allows users to manage deposits, loans, a
 - Expand integrations with local financial apps
 
 ## ⚙️ Demo
-🔗 www.lbhaiti.com/balance) 
-🧾 [MonCash API Documentation]((https://sandbox.moncashbutton.digicelgroup.com/Moncash-business/resources/doc/RestAPI_MonCash_doc.pdf))
+🔗 Live Demo of the balance checker: www.lbhaiti.com/balance
+🧾 MonCash API Documentation: sandbox.moncashbutton.digicelgroup.com/Moncash-business/resources/doc/RestAPI_MonCash_doc.pdf
 
 ---
 
