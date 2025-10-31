@@ -31,7 +31,7 @@ LIFE Pay is a web-based prototype that allows users to manage deposits, loans, a
 
 *Note: All financial and account data have been replaced with mock data for security.*
 
-<img width="1017" height="960" alt="Screen 3 - Post-Authentication" src="https://github.com/user-attachments/assets/d533465b-1610-4813-95f5-c12c0d924328" />
-<img width="1017" height="720" alt="Screen 4 - Invalid Credentials" src="https://github.com/user-attachments/assets/783e277a-c3d6-49c7-ace4-f3e82cd9cddd" />
-<img width="1071" height="1225" alt="Screen 1" src="https://github.com/user-attachments/assets/4ca9341c-bfde-4440-96f9-907e9bf1c4da" />
-<img width="1017" height="1011" alt="Screen 1 - Example Login" src="https://github.com/user-attachments/assets/7187f649-e347-45a2-a334-2174814cf70c" />
+<img height="480" alt="Screen 3 - Post-Authentication" src="https://github.com/user-attachments/assets/d533465b-1610-4813-95f5-c12c0d924328" />
+<img height="480" alt="Screen 4 - Invalid Credentials" src="https://github.com/user-attachments/assets/783e277a-c3d6-49c7-ace4-f3e82cd9cddd" />
+<img height="480" alt="Screen 1" src="https://github.com/user-attachments/assets/4ca9341c-bfde-4440-96f9-907e9bf1c4da" />
+<img height="480" alt="Screen 1 - Example Login" src="https://github.com/user-attachments/assets/7187f649-e347-45a2-a334-2174814cf70c" />
