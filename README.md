@@ -1,7 +1,7 @@
 # LIFE Pay 💸  
 **A prototype fintech platform for simplified online banking**
 
-LIFE Pay is a web-based prototype that allows users to manage deposits, loans, and interest calculations. The system currently serves over 50 testers in Haiti and integrates with **MonCash** (via API) and **NatCash** for real transactions.  
+LIFE Pay is a web-based prototype that allows users to manage deposits, loans, and interest calculations. The system currently serves over 500 testers in Haiti and integrates with **MonCash** (via API) and **NatCash** for real transactions.  
 
 ## 🧩 Features
 - **Balance Check Portal:** Secure PIN-based login using PHP and CSV data storage.
